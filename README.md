@@ -21,7 +21,7 @@ Since May 2024 I have been on a deliberate career break to fully commit to this 
 ## 🎓 Certifications
 
 | Certification | Provider | 
-|---|---|---|
+|---|---|
 | Data Analytics Certificate | Cisco |
 | AI & Machine Learning Certificate | GUVI |
 | Python | GUVI |
