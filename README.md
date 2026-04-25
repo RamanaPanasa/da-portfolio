@@ -73,7 +73,7 @@ My Data Analysis work is backed by 19.5 years of real business experience:
 - **PGDM Finance — IFMR / Krea University** — Financial analysis, project finance, P&L management
 - **B.E. Mechanical Engineering — Osmania University** — Engineering problem-solving, RCA, Six Sigma Black Belt mindset
 
-This means I understand not just the ML models — but the **business problems** they are built to solve.
+This means I understand not just the Data Tools — but the **business problems** they are built to solve.
 
 ---
 
