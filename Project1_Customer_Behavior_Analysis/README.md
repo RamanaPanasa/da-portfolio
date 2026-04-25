@@ -58,8 +58,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## Files in This Folder
 ```
-Project1_Titanic_Survival_Prediction/
-├── Project1_Titanic_Survival_Prediction.ipynb   ← Main notebook
+Project1_Customer_Behavior_Analysis/
+├── Project1_Customer_Behavior_Analysis.ipynb   ← Main notebook
 └── README.md                                     ← This file
 ```
 
