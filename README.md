@@ -33,7 +33,7 @@ Since May 2024 I have been on a deliberate career break to fully commit to this 
 ### Data Analytics
 
 | # | Project | Tools | Dataset | 
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | [Customer Behavior Analysis](./Project1_Customer_Behavior_Analysis/) | Python, SQL, Power BI | Customer Behavior Analysis
 
 
