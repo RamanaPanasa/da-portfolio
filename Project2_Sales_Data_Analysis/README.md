@@ -17,9 +17,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Take the Dataset**
-      - Data customer_behavior_analysis.csv
+      -Data pizza_sales.zip
    
-      - Import to SQL Database
+      - Import CSV files to SQL Database
   
 2. **Load the data from CSV into MySQL**
 
@@ -49,7 +49,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## Files in This Folder
 ```
 Project2_Sales_Data_Analysis/
-├── Sales_Data_Analysis.sql   ← Main notebook
+├── Sales_Data_Queries.sql   ← Main sql queries file
 └── README.md                 ← This file
 ```
 
